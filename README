@@ -1,0 +1,14 @@
+Author: Blaz Pocrnja
+
+The following commands are to run the program from the Terminal window.
+
+
+"make" or "make craps": : Allows you to compile and link the code into an executable.
+"make clean" : Deletes .o files and executable file.
+"make craps.o" : Allows you to only compile the code.
+"./craps" runs the executable file.
+
+When running the program simply type 'Y' or 'y' and enter to play craps, "N" or 'n' and enter to quit the program.
+
+Github Repository URL: https://github.com/BlazPocrnja/CS2010Lab3.git
+
